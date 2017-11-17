@@ -1,0 +1,4 @@
+Effects of dilation:
+Expand connected components
+Grow features
+Fill holes
